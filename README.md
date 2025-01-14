@@ -25,7 +25,7 @@
 
 ## Запуск
 
-1. Откройте [Google Colab Notebook]((https://colab.research.google.com/drive/1SKAdM02d8kCeWMcNEvFdTm3RRahIbCjB?usp=sharing)).  
+1. Откройте [Google Colab Notebook](https://colab.research.google.com/drive/1SKAdM02d8kCeWMcNEvFdTm3RRahIbCjB?usp=sharing).  
 2. Подготовьте набор данных:
    - Загрузите [Flowers Dataset](https://www.kaggle.com/datasets/imsparsh/flowers-dataset).
    - Разместите данные в папке `data/` на вашем Google Drive.
